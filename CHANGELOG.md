@@ -1,3 +1,8 @@
+## 3.1.1
+
+#### Added
+- Added Carthage support (see README.md for instructions).
+
 ## 3.1.0
 
 #### Added
